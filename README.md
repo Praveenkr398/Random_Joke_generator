@@ -1,20 +1,27 @@
-# Random_Joke_generator
-view live:  https://praveenkr398.github.io/Random_Joke_generator/
+# 🤣 Random Joke Generator  
 
-Random Joke Generator
+🚀 A fun and interactive **Random Joke Generator** built using **HTML, CSS, and JavaScript**. Get a fresh joke at the click of a button and even hear it spoken aloud! 🎤😂  
 
-🎉 A fun and interactive project that generates random jokes to brighten your day! Built using HTML, CSS, and JavaScript, this project delivers both visual and auditory entertainment. With a sleek design and added functionality, it's sure to bring smiles.
+## 🌟 Features  
+✔ **Get Random Jokes** – Click the button to generate a new joke instantly 😆  
+✔ **Text-to-Speech (TTS)** – Listen to jokes with built-in voice synthesis 🔊  
+✔ **Seamless Experience** – No page reload required for new jokes ⚡  
+✔ **Interactive & Engaging UI** – Simple and fun interface 🎨  
 
-Features:
-📜 Random Joke Generation: Fetch a new joke with every click.
-🗣️ Voice Synthesis: Jokes are read aloud using the Web Speech API for an immersive experience.
-⚡ Responsive Design: Works seamlessly across devices.
-🎨 Modern Styling: Enjoy smooth CSS animations and a polished UI.
-🔄 Refresh Functionality: Instantly fetch a fresh joke at any time.
-Perfect for developers exploring frontend development, APIs, and browser-based voice synthesis. 🚀
+## 📷 Preview  
+![Random Joke Generator Preview](https://github.com/user-attachments/assets/33a1bfb3-fa00-49c1-953e-739484162a3a)
 
-Contributions and feedback are always welcome. Let the jokes begin! 🎤😂
+## 🔗 Live Demo  
+👉 [Try it Here](https://praveenkr398.github.io/Random_Joke_generator/)  
 
-![image](https://github.com/user-attachments/assets/1fb05072-a5b4-460e-a13d-05b22fec6926)
+## 🛠 Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript  
 
-![image](https://github.com/user-attachments/assets/33a1bfb3-fa00-49c1-953e-739484162a3a)
+## 📂 Project Repository  
+🔗 [GitHub Repository](https://github.com/Praveenkr398/Random_Joke_generator)  
+
+## 📩 Contact  
+For any queries, suggestions, or collaborations, connect with me:  
+🔗 [LinkedIn](https://www.linkedin.com/in/Praveenkr398)  
